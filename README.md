@@ -2,7 +2,7 @@
 
 # Student Teacher Protocol
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 Student sends their credentials to teacher for authentication
 Teacher responds with OK
